@@ -1,0 +1,2 @@
+# segik
+my progect
